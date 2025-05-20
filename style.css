@@ -1,0 +1,33 @@
+/*h1, p, info paragraph h2 img*/  
+/*
+light gray: #DAD7CD
+light green: #A3B18A
+dark green: #344E41
+middle green: #3A5A40
+*/
+body{
+    background-color: #DAD7CD;
+    text-align: center;
+}
+
+h1{
+    clor: #A3B18A:
+    font-size: 40px;
+    font-family: "Fascinate Inline", sans-serif;
+    line-height: 1;
+    letter-spacing: 10px;
+} 
+p{
+    font-size: 12px;
+    clor: crimson;
+}
+#intro paragraph{
+    clolr: #344E41;
+
+}
+img{
+    width: 200px;
+}
+a{
+    colour: #3A5A40;
+}
